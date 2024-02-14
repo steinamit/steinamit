@@ -1,6 +1,7 @@
 
 # Hi there, I'm Amit Stein 👋
 Currently M.Sc. Industrial Engineering and Management - Data Science (Completion year student) at Ariel University
+
 B.A. Economics & Business Management Graduate From Ariel University
 
 ## 📫 Contact Me:
