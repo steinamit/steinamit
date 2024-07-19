@@ -12,7 +12,23 @@ B.A. Economics & Business Management Graduate From Ariel University
 ### Languages and Tools:
 - Python
 - R
-- Excel 
+- Excel
 - SQL
+- NoSQL
 - SPSS
+- Web Scraping
+- Machine Learning
+- Command Line (CMD)
+- HTML
+
+### Frameworks:
+- Flask
+
+### Development Environments:
+- Notepad
+- Jupyter Lab
+- Google Colab
+- Spyder
+
+
 
