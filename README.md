@@ -21,7 +21,7 @@ B.A. Economics & Business Management Graduate From Ariel University
 - Pandas
 - Numpy
 - bs4
-- Seaborn-
+- Seaborn
 - Matplotlib
 - Sklearn
 
