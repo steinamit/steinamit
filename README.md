@@ -18,14 +18,18 @@ B.A. Economics & Business Management Graduate From Ariel University
 - SPSS
 - Web Scraping
 - Machine Learning
-- Command Line (CMD)
-- HTML
+- Pandas
+- Numpy
+- bs4
+- Seaborn-
+- Matplotlib
+- Sklearn
+
 
 ### Frameworks:
 - Flask
 
 ### Development Environments:
-- Notepad
 - Jupyter Lab
 - Google Colab
 - Spyder
