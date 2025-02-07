@@ -13,8 +13,6 @@ B.A. Economics & Business Management Graduate From Ariel University
 - Python
 - R
 - Excel
-- SQL
-- NoSQL
 - SPSS
 - Web Scraping
 - Machine Learning
