@@ -26,20 +26,6 @@ B.A. Economics & Business Management Graduate From Ariel University
 - **Matplotlib**
 - **Sklearn**
 
-### Frameworks
-- **Flask**
-
-### Development Environments
-- **Jupyter Lab**
-- **Google Colab**
-- **Spyder**
-
-### Version Control & Deployment
-- **Git**
-- **GitHub**
-- **Docker**
-- **Heroku**
-
 ### Artificial Intelligence & Deep Learning
 - **Agents**
 - **Search Algorithms (incl. game search)**
@@ -55,13 +41,23 @@ B.A. Economics & Business Management Graduate From Ariel University
 - **Natural Language Processing**
 - **Computer Vision**
 - **Recommender Systems (Collaborative Filtering, Content-Based Filtering, Hybrid models, Multi-Modal models)**
-
+  
 ### Database Management
 - **SQL**
 
 ### Data Visualization
 - **Power BI**
 - **Tableau**
+
+### Frameworks
+- **Flask**
+
+### Development Environments
+- **Jupyter Lab**
+- **Google Colab**
+- **Spyder**
+
+
 
 
 
