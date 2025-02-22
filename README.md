@@ -26,7 +26,7 @@ B.A. Economics & Business Management Graduate From Ariel University
 - **Matplotlib**
 - **Sklearn**
 
-### Artificial Intelligence & Deep Learning
+### Artificial Intelligence 
 - **Agents**
 - **Search Algorithms (incl. game search)**
 - **Game Theory**
