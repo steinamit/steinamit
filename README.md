@@ -31,5 +31,5 @@ My thesis explores cold-start solutions in recommendation systems using multimod
 
 ### 📫 Contact
 
-- **LinkedIn**: [amit stein](https://www.linkedin.com/in/amitstein)  
+- **LinkedIn**: [amit stein](https://www.linkedin.com/in/amit-stein-41b349200/)  
 - **Email**: amitst171@gmail.com
