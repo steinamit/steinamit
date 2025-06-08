@@ -18,7 +18,7 @@ My thesis explores cold-start solutions in recommendation systems using multimod
     <img alt="My Site" src="https://img.shields.io/badge/My%20Site-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
----
+----
 
 ###  Skills & Tools
 
