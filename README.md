@@ -15,8 +15,7 @@ My thesis explores cold-start solutions in recommendation systems using multimod
 #### Machine Learning & AI
 - Supervised & Unsupervised Learning  
 - Model Training, Feature Engineering, Hyperparameter Tuning  
-- Classification, NLP, Computer Vision  
-- Deep Learning (TensorFlow, Keras)  
+- Deep Learning, Neural networks, prediction,Classification, NLP, CNN, Time series (RNN, GRU, LSTM), HuggingFace.
 - Recommender Systems (Collaborative, Content-Based, Hybrid, Multi-Modal)  
 - Genetic Algorithms, Game Theory, Search Algorithms, Intelligent Agents
 
