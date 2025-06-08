@@ -41,8 +41,3 @@ My thesis explores cold-start solutions in recommendation systems using multimod
   <a href="https://github.com/steinamit" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/My%20Site-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://your-website.com" target="_blank">
-    <img alt="Click Here" src="https://img.shields.io/badge/Click%20Here-lightgrey?style=for-the-badge"/>
-  </a>
-</p>
-
