@@ -31,5 +31,18 @@ My thesis explores cold-start solutions in recommendation systems using multimod
 
 ### 📫 Contact
 
-- **LinkedIn**: [amit stein](https://www.linkedin.com/in/amit-stein-41b349200/)  
-- **Email**: amitst171@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/amit-stein-41b349200/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:amitst171@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/steinamit" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/My%20Site-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://your-website.com" target="_blank">
+    <img alt="Click Here" src="https://img.shields.io/badge/Click%20Here-lightgrey?style=for-the-badge"/>
+  </a>
+</p>
+
