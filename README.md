@@ -14,7 +14,7 @@ My thesis explores cold-start solutions in recommendation systems using multimod
   <a href="mailto:amitst171@gmail.com" style="text-decoration: none;">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/steinamit" target="_blank" style="text-decoration: none;">
+  <a href="https://stein-portfolio-showcase.lovable.app/" target="_blank" style="text-decoration: none;">
     <img alt="My Site" src="https://img.shields.io/badge/My%20Site-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
