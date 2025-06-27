@@ -1,7 +1,5 @@
 # Amit Stein
 
-Data Scientist with a strong foundation in machine learning, deep learning, and data engineering. 
-
 Currently pursuing an M.Sc. in Industrial Engineering & Management, with a specialization in AI & Data Science at Ariel University.  
 My thesis explores cold-start solutions in recommendation systems using multimodal product representations and large-scale transaction data.
 
