@@ -23,7 +23,7 @@ M.Sc. in Industrial Engineering & Management (Data Science & AI track), Ariel Un
 
 ### Toolkit
 
-**AI engineering:** LLMs · RAG · document ingestion · embeddings · prompt engineering · LLM output evaluation
-**Machine learning:** recommender systems · multimodal embeddings · predictive modeling · time-series forecasting · deep learning
-**Data:** Python · SQL · PostgreSQL · BigQuery · Airflow · pandas · scikit-learn · PyTorch · R
+**AI engineering:** LLMs · RAG · document ingestion · embeddings · prompt engineering · LLM output evaluation  
+**Machine learning:** recommender systems · multimodal embeddings · predictive modeling · time-series forecasting · deep learning  
+**Data:** Python · SQL · PostgreSQL · BigQuery · Airflow · pandas · scikit-learn · PyTorch · R  
 **Analytics:** Excel · Power BI · Tableau · financial modeling
