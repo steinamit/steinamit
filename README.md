@@ -16,6 +16,7 @@ M.Sc. in Industrial Engineering & Management (Data Science & AI track), Ariel Un
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Spotify: genre, explicit lyrics and popularity](https://github.com/steinamit/spotify-genre-classification) | Six models compared on audio features of Spotify tracks: XGBoost names the genre out of 10 at 70% accuracy (chance 10%), Random Forest flags explicit lyrics at 98% precision | Python · scikit-learn · XGBoost |
 | [Used-car price prediction](https://github.com/steinamit/Final-project-in-a-machine-learning-course) | End-to-end ML pipeline on 1,500 Israeli car listings: cleaning, feature engineering, ElasticNet tuned with 10-fold grid search (test RMSE ₪11,057), [served as a Flask app](https://github.com/steinamit/Final-project-in-the-course-Advanced-Data-Mining-and-Analysis-in-Python-) | Python · scikit-learn · Flask |
 | [Household travel survey analysis](https://github.com/steinamit/Python-data-analysis-project) | Ministry of Transportation microdata for about 39,000 people: who holds a driving licence, by education, employment, gender and sector | pandas · seaborn |
 | [Demand forecasting in R](https://github.com/steinamit/Data-analysis-project-in-R) | Trend regression, exponential smoothing and Holt-Winters compared on a 10-year demand series | R · forecast |
