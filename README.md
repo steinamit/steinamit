@@ -12,13 +12,22 @@ M.Sc. in Industrial Engineering & Management (Data Science & AI track), Ariel Un
   <a href="mailto:amitst171@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-### Selected projects
+### Data science & machine learning
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Used-car price prediction](https://github.com/steinamit/Final-project-in-a-machine-learning-course) | End-to-end ML pipeline on 1,500 Israeli car listings: cleaning, feature engineering, ElasticNet tuned with 10-fold grid search (test RMSE ₪11,057), [served as a Flask app](https://github.com/steinamit/Final-project-in-the-course-Advanced-Data-Mining-and-Analysis-in-Python-) | Python · scikit-learn · Flask |
+| [Household travel survey analysis](https://github.com/steinamit/Python-data-analysis-project) | Ministry of Transportation microdata for about 39,000 people: who holds a driving licence, by education, employment, gender and sector | pandas · seaborn |
+| [Demand forecasting in R](https://github.com/steinamit/Data-analysis-project-in-R) | Trend regression, exponential smoothing and Holt-Winters compared on a 10-year demand series | R · forecast |
+| [Amazon publishing strategy](https://github.com/steinamit/Amazon-Project) | Bestseller data turned into a recommendation to a CEO on which authors to back, with an executive deck | pandas · PowerPoint |
+
+Course labs (code provided by the course, run and analysed by me): [CNN image classification](https://github.com/steinamit/CNN-Implementation-for-Binary-Image-Classification-Cats-vs-Dogs) · [Deep learning with an MLP](https://github.com/steinamit/Deep-Learning-with-MLP)
+
+### Finance & analytics
 
 | Project | What it does | Stack |
 |---|---|---|
 | [Tesla vs the S&P 500: beta, CAPM and diversification](https://github.com/steinamit/-Investments-in-Securities) | Monthly returns 2010–2015, beta, CAPM expected return, Jensen's alpha and two-asset portfolio risk across correlations | Excel · finance |
-| [Used-car price prediction](https://github.com/steinamit/Final-project-in-a-machine-learning-course) | ElasticNet pipeline on 1,500 Israeli car listings, tuned with 10-fold grid search (test RMSE ₪11,057) and [served as a Flask app](https://github.com/steinamit/Final-project-in-the-course-Advanced-Data-Mining-and-Analysis-in-Python-) | Python · scikit-learn · Flask |
-| [Demand forecasting in R](https://github.com/steinamit/Data-analysis-project-in-R) | Trend regression, exponential smoothing and Holt-Winters compared on a 10-year demand series | R · forecast |
 | [Financial modeling in Excel](https://github.com/steinamit/Excel-data-analysis-course-for-economists) | NPV investment appraisal, loan sensitivity tables, Goal Seek and Solver optimization | Excel |
 
 ### Toolkit
