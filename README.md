@@ -4,7 +4,9 @@
 
 Financial data is only useful if you can trust it. That's the part I work on: using AI to turn unstructured financial information into structured, reliable data.
 
-M.Sc. in Industrial Engineering & Management (Data Science & AI track), Ariel University. My thesis research, **CoMMRec**, a training-free method for cold-start recommendation, was presented at the Mind-IL 2026 data science conference.
+M.Sc. in Industrial Engineering & Management (Data Science & AI track), Ariel University. My thesis research, **CoMMRec**, is a training-free method for cold-start recommendation.
+
+**Talk:** CoMMRec at Mind-IL 2026, the Data Science, Operations and Analytics Conference in Tel Aviv. [Slides on my site](https://steinamit.github.io/#research)
 
 <p align="left">
   <a href="https://steinamit.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-0F1726?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -16,9 +18,9 @@ M.Sc. in Industrial Engineering & Management (Data Science & AI track), Ariel Un
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Spotify: genre, explicit lyrics and popularity](https://github.com/steinamit/spotify-genre-classification) | Six models compared on audio features of Spotify tracks: XGBoost names the genre out of 10 at 70% accuracy (chance 10%), Random Forest flags explicit lyrics at 98% precision | Python · scikit-learn · XGBoost |
-| [Used-car price prediction](https://github.com/steinamit/Final-project-in-a-machine-learning-course) | End-to-end ML pipeline on 1,500 Israeli car listings: cleaning, feature engineering, ElasticNet tuned with 10-fold grid search (test RMSE ₪11,057), [served as a Flask app](https://github.com/steinamit/Final-project-in-the-course-Advanced-Data-Mining-and-Analysis-in-Python-) | Python · scikit-learn · Flask |
-| [Household travel survey analysis](https://github.com/steinamit/Python-data-analysis-project) | Ministry of Transportation microdata for about 39,000 people: who holds a driving licence, by education, employment, gender and sector | pandas · seaborn |
+| [Spotify: genre, explicit lyrics, popularity](https://github.com/steinamit/spotify-genre-classification) | Six models compared on audio features of Spotify tracks: XGBoost names the genre out of 10 at 70% accuracy (chance 10%), Random Forest flags explicit lyrics at 98% precision | Python · scikit-learn · XGBoost |
+| [Car price prediction](https://github.com/steinamit/Final-project-in-a-machine-learning-course) | End-to-end ML pipeline on 1,500 Israeli car listings: cleaning, feature engineering, ElasticNet tuned with 10-fold grid search (test RMSE ₪11,057), [served as a Flask app](https://github.com/steinamit/Final-project-in-the-course-Advanced-Data-Mining-and-Analysis-in-Python-) | Python · scikit-learn · Flask |
+| [Travel habits survey](https://github.com/steinamit/Python-data-analysis-project) | Ministry of Transportation microdata for about 39,000 people: who holds a driving license, by education, employment, gender and sector | pandas · seaborn |
 | [Demand forecasting in R](https://github.com/steinamit/Data-analysis-project-in-R) | Trend regression, exponential smoothing and Holt-Winters compared on a 10-year demand series | R · forecast |
 
 ### Toolkit
